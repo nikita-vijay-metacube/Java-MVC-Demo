@@ -10,9 +10,6 @@
 	crossorigin="anonymous">
 </head>
 <body>
-	<h3 class="m-5">
-		<a href="Javascript:;">Click Here to go back</a>
-	</h3>
 	<div class="container-fluid">
 		<h2 class="text-center m-5 text-danger">Blogs</h2>
 		<div class="row">

@@ -18,6 +18,8 @@ public class BlogRepositoryImpl implements BlogRepository {
 				"This is blog 1, hey this is cool.."));
 		list.add(new Blog(2, "Blog",
 				"This is blog 2. Hey just wait for it.."));
+		list.add(new Blog(3, "Blog",
+				"This is blog 3. My Last Blog.."));
 	}
 
 	@Override
